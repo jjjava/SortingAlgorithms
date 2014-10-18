@@ -24,6 +24,7 @@ public class SortText2 {
         nomes.add("Hudson Luiz");
         nomes.add("Hudson Luiz Sales");
         nomes.add("Wilson Schumaker");
+        nomes.add("Wilson Schumacher");
         nomes.add("Felipe Schumaker");
         nomes.add("Henrique Schumaker");
         nomes.add("Hudson Sales");
@@ -39,6 +40,5 @@ public class SortText2 {
         for (String n : nomes) {
             System.out.println(n);
         }
-
     }
 }
